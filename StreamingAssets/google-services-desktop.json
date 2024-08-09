@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "888181078413",
+    "project_id": "imagegame-db476",
+    "firebase_url" : "https://console.firebase.google.com/u/0/project/imagegame-db476/database/imagegame-db476-default-rtdb/data/~2F?hl=ko",
+    "storage_bucket": "imagegame-db476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888181078413:android:2e51032a93c09bbd3ae5c4",
+        "android_client_info": {
+          "package_name": "com.ecloud.imagegame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzqdSqEYiibdJ7wp9pT0oV3FAarKJsdLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
